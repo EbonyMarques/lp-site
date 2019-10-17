@@ -83,6 +83,7 @@ body {
   color: #212529;
   text-align: left;
   background-color: #fff;
+  overflow: hidden!important;
 }
 
 [tabindex='-1']:focus {
@@ -10971,6 +10972,7 @@ body,
 html {
   width: 100%;
   height: 100%;
+  overflow: hidden!important;
 }
 .bg-general {
   background-color: #f4623a !important;
